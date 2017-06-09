@@ -145,6 +145,7 @@ Available languages
 | Abbr        | Language         |          |
 | ----------- |------------------|----------|
 | en          | English          | *Default*|
+| af          | Afrikaans        |          |
 | es          | Spanish          |          |
 | fi          | Finnish          |          |
 | fr          | French           |          |
